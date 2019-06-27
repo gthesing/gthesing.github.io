@@ -1,6 +1,6 @@
 
 ## Welcome to my GitHub Pages repo
-This repository contains all files associated with my professional portfolio; go check it out at https://gthesing.github.io/
+This repository contains all files associated with my professional portfolio; go check it out at https://gthesing.github.io/portfolio/
 
 Shoutout to the [Data Analysis and Visualization Bootcamp at UT Austin](https://techbootcamps.utexas.edu/data/) for giving me the tools to build all this cool stuff
 
