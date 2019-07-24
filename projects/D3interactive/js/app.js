@@ -111,7 +111,7 @@ function updateToolTip(newXAxis, newYAxis, circlesGroup) {
 };
 
 // Get csv data 
-d3.csv('https://github.com/gthesing/gthesing.github.io/blob/master/projects/D3interactive/data.csv', function(healthData){
+d3.csv('https://raw.githubusercontent.com/gthesing/gthesing.github.io/master/projects/D3interactive/data.csv', function(healthData){
 
     // Data parsing
     healthData.forEach(function(d) {
