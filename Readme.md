@@ -1,15 +1,17 @@
 
 ## Welcome to my GitHub Pages repo
-This repository contains all files associated with my professional portfolio; go check it out [here](https://gthesing.github.io/portfolio/)
 
-Shoutout to the [Data Analysis and Visualization Bootcamp at UT Austin](https://techbootcamps.utexas.edu/data/) for giving me the tools to build all this cool stuff
+<br>
+
+Links:
+* [Portfolio](https://gthesing.github.io/portfolio/)
+* [D3 Interactive Scatter Plot](https://gthesing.github.io/projects/D3interactive/)
+* [NYC Citibike Tableau Dashboard](https://gthesing.github.io/projects/citibike/)
 
 ---
 
-## About the page theme:
+## Like the theme? Check out BootStrapMade:
 
-Theme Name: DevFolio 
+Developers: [BootStrapMade](https://bootstrapmade.com/)  
 
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-
-Author: [BootstrapMade.com](https://bootstrapmade.com)
+Theme Name: [DevFolio](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/) 
